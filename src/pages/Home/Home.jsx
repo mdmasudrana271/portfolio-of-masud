@@ -6,6 +6,7 @@ import Projects from "../Projects/Projects";
 import Contact from "../Contact/Contact";
 import About from "../About/About";
 import Cpp from "../Cpp/Cpp";
+import Courses from "../Courses/Courses";
 
 const Home = () => {
   return (
@@ -16,6 +17,7 @@ const Home = () => {
       <Projects></Projects>
       <Cpp></Cpp>
       <Education></Education>
+      <Courses></Courses>
       <Contact></Contact>
     </div>
   );
