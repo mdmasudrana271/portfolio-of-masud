@@ -15,7 +15,7 @@ const Banner = () => {
   };
 
   return (
-    <div className="flex flex-col md:flex-row justify-between items-center gap-6 px-6 md:px-12 lg:px-20 py-12 bg-gradient-to-r from-[#1e293b] to-[#0f172a] text-white h-[100vh]">
+    <div className="flex flex-col md:flex-row justify-between items-center gap-6 px-6 md:px-12 lg:px-20 py-12 bg-gradient-to-r from-[#1e293b] to-[#0f172a] text-white md:h-[100vh]">
       {/* Left Side Content */}
       <div
         data-aos="fade-right"
