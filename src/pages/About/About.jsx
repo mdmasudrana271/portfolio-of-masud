@@ -51,18 +51,6 @@ const About = () => {
             project with dedication and enthusiasm.
           </p>
 
-          <h4 className="text-3xl font-semibold text-[#64ffda] mb-4">
-            My Skills
-          </h4>
-          <ul className="list-disc list-inside space-y-2 text-[#e1e6f0] text-lg">
-            <li>JavaScript (ES6), React.js, Node.js, Express.js</li>
-            <li>MongoDB, Firebase, JWT Authentication</li>
-            <li>Python, Django (DRF), REST APIs, SQL Databases</li>
-            <li>HTML5, CSS3, TailwindCSS, Bootstrap</li>
-            <li>Version Control (Git/GitHub), Deployment (Netlify, Vercel)</li>
-            <li></li>
-          </ul>
-
           <h4 className="text-3xl font-semibold text-[#64ffda] mt-8 mb-4">
             My Philosophy
           </h4>
