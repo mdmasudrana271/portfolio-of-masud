@@ -66,7 +66,7 @@ const Banner = () => {
             Download Resume
           </button>
           <a
-            href="#contact"
+            href="/contact"
             className="px-6 py-2 rounded-lg border border-[#22d3ee] text-[#22d3ee] hover:bg-[#22d3ee] hover:text-gray-900 transition"
           >
             Contact Me
