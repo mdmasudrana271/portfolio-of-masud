@@ -1,6 +1,11 @@
 import { FaCode } from "react-icons/fa";
 import { IoLogoGithub } from "react-icons/io5";
-import { SiCodechef, SiCodeforces, SiHackerrank } from "react-icons/si";
+import {
+  SiCodechef,
+  SiCodeforces,
+  SiHackerrank,
+  SiLeetcode,
+} from "react-icons/si";
 
 const Cpp = () => {
   return (
@@ -65,6 +70,29 @@ const Cpp = () => {
             <SiCodechef className="text-4xl inline-block mb-2 mr-2" />{" "}
             {/* Added margin-right */}
             View My CodeChef Profile
+          </a>
+        </div>
+        {/* LeetCode */}
+        <div
+          className="bg-[#112240] p-6 rounded-lg shadow-lg text-center"
+          data-aos="fade-up"
+          data-aos-delay="400"
+        >
+          <h3 className="text-xl font-semibold text-[#64ffda] mb-4">
+            LeetCode
+          </h3>
+          <p className="text-[#ccd6f6] mb-4">
+            I solve LeetCode problems to enhance my problem-solving skills and
+            prepare for technical interviews.
+          </p>
+          <a
+            href="https://leetcode.com/u/Md_Masud/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#64ffda] hover:text-white text-lg"
+          >
+            <SiLeetcode className="text-4xl inline-block mb-2 mr-2" />
+            View My LeetCode Profile
           </a>
         </div>
 
