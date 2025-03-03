@@ -5,7 +5,7 @@ import codeAnimation from "../../assets/animation/navanimation.json";
 
 const Header = () => {
   return (
-    <div className="navbar lg:fixed lg:top-0 lg:z-10  w-full bg-transparent backdrop-blur-lg shadow-md border-b border-white/10 ">
+    <div className="navbar lg:fixed lg:top-0 lg:z-20  w-full bg-transparent backdrop-blur-lg shadow-md border-b border-white/10 ">
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden text-white">
