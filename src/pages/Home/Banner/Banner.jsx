@@ -15,16 +15,16 @@ const Banner = () => {
   };
 
   return (
-    <div className="flex flex-col md:flex-row justify-between items-center gap-6 px-6 md:px-12 lg:px-20 py-12 bg-gradient-to-r from-[#1e293b] to-[#0f172a] text-white md:h-[100vh]">
+    <div className="flex flex-col md:flex-row justify-between items-center gap-6 px-6 md:px-12 lg:px-20 py-12 bg-gradient-to-r from-[#1e293b] to-[#0f172a] text-white lg:h-[100vh]">
       {/* Left Side Content */}
       <div
         data-aos="fade-right"
         className="w-full md:w-1/2 text-center md:text-left space-y-4"
       >
-        <h1 className="text-2xl md:text-4xl font-bold text-[#22d3ee]">
+        <h1 className="text-2xl lg:text-4xl font-bold text-[#22d3ee]">
           Hi, I'm
         </h1>
-        <h2 className="text-3xl md:text-5xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-[#22d3ee] to-[#a855f7]">
+        <h2 className="text-3xl lg:text-5xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-[#22d3ee] to-[#a855f7]">
           Md Abdullah Al Masud
         </h2>
 
