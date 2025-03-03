@@ -11,6 +11,7 @@ import {
   FaGithub,
   FaGitAlt,
 } from "react-icons/fa"; // Add any icons you prefer
+import { FcLinux } from "react-icons/fc";
 import { IoLogoFigma, IoLogoVercel } from "react-icons/io5";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { SiDjango, SiMongodb, SiMysql, SiSqlite } from "react-icons/si";
@@ -109,6 +110,9 @@ const Skills = () => {
             </li>
             <li className="flex items-center gap-2 mb-2">
               <IoLogoVercel className="text-[#64ffda]" /> Vercel
+            </li>
+            <li className="flex items-center gap-2 mb-2">
+              <FcLinux className="text-[#64ffda]" /> Linux
             </li>
           </ul>
         </div>
