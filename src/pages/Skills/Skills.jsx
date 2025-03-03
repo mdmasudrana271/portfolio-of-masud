@@ -3,13 +3,12 @@ import {
   FaPython,
   FaJsSquare,
   FaCogs,
-  FaDatabase,
   FaCode,
-  FaReact,
   FaBootstrap,
   FaChrome,
   FaGithub,
   FaGitAlt,
+  FaLinux,
 } from "react-icons/fa"; // Add any icons you prefer
 import { FcLinux } from "react-icons/fc";
 import { IoLogoFigma, IoLogoVercel } from "react-icons/io5";
@@ -112,7 +111,7 @@ const Skills = () => {
               <IoLogoVercel className="text-[#64ffda]" /> Vercel
             </li>
             <li className="flex items-center gap-2 mb-2">
-              <FcLinux className="text-[#64ffda]" /> Linux
+              <FaLinux className="text-[#64ffda]" /> Linux
             </li>
           </ul>
         </div>
