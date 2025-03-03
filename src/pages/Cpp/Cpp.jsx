@@ -19,7 +19,7 @@ const Cpp = () => {
         </h2>
         <p className="text-lg text-[#8892b0]">
           Here are the platforms where I solve algorithmic problems and improve
-          my coding skills:
+          my coding skills
         </p>
       </div>
 
