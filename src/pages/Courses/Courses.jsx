@@ -9,7 +9,7 @@ const Courses = () => {
           Courses Completed
         </h2>
         <p className="text-lg text-[#8892b0]">
-          Here are the courses I have completed to enhance my technical skills:
+          Here are the courses I have completed to enhance my technical skills.
         </p>
       </div>
 

@@ -1,5 +1,3 @@
-import { FaCode } from "react-icons/fa";
-import { IoLogoGithub } from "react-icons/io5";
 import {
   SiCodechef,
   SiCodeforces,
