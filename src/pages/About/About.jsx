@@ -29,7 +29,7 @@ const About = () => {
         >
           <h3 className="text-4xl font-bold text-[#64ffda] mb-8">About Me</h3>
           <p className="text-[#e1e6f0] text-lg mb-6">
-            Hi! I'm Md Abdullah Al Masud, a passionate full-stack web developer
+            Hi, I'm Md Abdullah Al Masud, a passionate full-stack web developer
             with expertise in the MERN stack and Python Django. I love solving
             problems and creating scalable, efficient web applications that
             deliver exceptional user experiences. With a focus on modern
