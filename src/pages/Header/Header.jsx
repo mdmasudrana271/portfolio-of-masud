@@ -49,11 +49,11 @@ const Header = () => {
           </ul>
         </div>
         <Link to="/" className="btn btn-ghost normal-case text-5xl">
-          <div className="w-12 h-12 rounded-full overflow-hidden bg-gray-900 flex items-center justify-center">
+          <div className="w-14 h-14 rounded-full overflow-hidden bg-gray-900 flex items-center justify-center">
             <Lottie
               animationData={codeAnimation}
               loop={true}
-              className="w-10 h-10"
+              className="w-14 h-14"
             />
           </div>
         </Link>
