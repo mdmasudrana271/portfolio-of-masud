@@ -9,7 +9,7 @@ const About = () => {
     <section
       ref={ref}
       id="about"
-      className="bg-[#0a192f] text-white py-16 relative overflow-hidden"
+      className="bg-[#0a192f] text-white py-16 relative overflow-hidden lg:mt-16"
     >
       {/* Animated Wave Background */}
       <motion.div

@@ -19,7 +19,7 @@ const Projects = () => {
 
   return (
     <div
-      className="py-20 bg-gradient-to-r from-[#0a192f] to-[#112240] text-white"
+      className="py-20 bg-gradient-to-r from-[#0a192f] to-[#112240] text-white lg:mt-14"
       id="projects"
     >
       <div className="text-center mb-12">
