@@ -3,7 +3,7 @@ import animation from "../../assets/animation/dev.json";
 
 const Contact = () => {
   return (
-    <div className="grid grid-cols-1 gap-8 px-8 py-16 mx-auto md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 bg-[#0a192f] text-white lg:mt-16">
+    <div className="grid grid-cols-1 gap-8 px-8 py-16 mx-auto md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 bg-[#0a192f] text-white ">
       <div className="flex flex-col justify-between">
         <div className="space-y-2">
           <h2 className="text-xl md:text-4xl font-bold leading-tight text-center text-[#64ffda]">

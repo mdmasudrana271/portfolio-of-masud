@@ -18,7 +18,7 @@ import { VscVscode } from "react-icons/vsc";
 
 const Skills = () => {
   return (
-    <div className="py-16 bg-[#0a192f] text-white px-6 lg:mt-16" id="skills">
+    <div className="py-16 bg-[#0a192f] text-white px-6 " id="skills">
       <div className="text-center mb-12">
         <h2 className="text-3xl md:text-4xl font-extrabold text-[#64ffda]">
           My Skills
