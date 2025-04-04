@@ -68,13 +68,7 @@ const Education = () => {
                 <strong>Major:</strong> Accounting
               </p>
               <p>
-                <strong>Year:</strong> 2nd Year
-              </p>
-              <p>
                 <strong>Session & Type:</strong> 2021-22
-              </p>
-              <p>
-                <strong>Result:</strong> Present
               </p>
             </div>
           </div>
